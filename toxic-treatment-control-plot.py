@@ -1,5 +1,4 @@
 import pickle as pkl
-from matplotlib import pyplot as plt
 from random import randint
 import streamlit as st
 
